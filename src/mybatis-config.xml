@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <mappers>
+<!--         <mapper resource="mybitis/td_gv_member.xml"/>
+        <mapper resource="mybitis/td_gv_member_history.xml"/>
+        <mapper resource="mybitis/ts_gv_dict.xml"/>
+        <mapper resource="mybitis/tw_gv_merblogin_log_.xml"/>
+        <mapper resource="mybitis/td_gv_address.xml"/>
+        <mapper resource="mybitis/td_gv_goods.xml"/>
+        <mapper resource="mybitis/td_gv_goods_image.xml"/>
+        <mapper resource="mybitis/td_gv_order.xml"/>    -->
+     </mappers>
+</configuration>
